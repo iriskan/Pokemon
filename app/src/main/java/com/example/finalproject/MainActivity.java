@@ -21,7 +21,7 @@ import android.widget.Switch;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-//
+
 public class MainActivity extends AppCompatActivity {
     private double[] path;
     private MapView mapView;
